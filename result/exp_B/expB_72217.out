@@ -1,9 +1,0 @@
-==== Experiment B (CLIP image) ====
-job=72217  node=cc25cluster01  cpus=48
-images embedded: 15283
-Target          N   accuracy   macroF1
-Y1_mood     15283      0.502     0.223
-Y2_sound    15283      0.501     0.308
-Y3_smell    15283      0.731     0.231
-
-saved -> ../result/exp_B/exp_B_results.csv

@@ -1,0 +1,4 @@
+target,N,classes,accuracy,macro_f1
+Y1_emotion,15284,7,0.6254,0.4517
+Y2_sound,15284,7,0.7092,0.6224
+Y3_smell,15284,7,0.8345,0.5045

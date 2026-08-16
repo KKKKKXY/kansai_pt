@@ -1,0 +1,10 @@
+target,experiment,N,accuracy,macro_f1
+Y1_emotion,C,15284,0.5116,0.2039
+Y1_emotion,A+C,15284,0.6212,0.4498
+Y1_emotion,B+C,15283,0.5957,0.3423
+Y2_sound,C,15284,0.5201,0.3163
+Y2_sound,A+C,15284,0.6994,0.6079
+Y2_sound,B+C,15283,0.6775,0.5603
+Y3_smell,C,15284,0.737,0.2155
+Y3_smell,A+C,15284,0.8342,0.5038
+Y3_smell,B+C,15283,0.8162,0.3646

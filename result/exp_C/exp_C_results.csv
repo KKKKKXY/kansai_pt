@@ -1,7 +1,0 @@
-target,experiment,N,accuracy,macro_f1
-Y1_mood,C,15284,0.5116,0.2039
-Y1_mood,A+C,15284,0.6297,0.4562
-Y2_sound,C,15284,0.5204,0.3279
-Y2_sound,A+C,15284,0.7125,0.6204
-Y3_smell,C,15284,0.737,0.2118
-Y3_smell,A+C,15284,0.8292,0.5062

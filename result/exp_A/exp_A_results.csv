@@ -1,4 +1,0 @@
-target,N,classes,accuracy,macro_f1
-Y1_mood,15284,7,0.6297,0.4567
-Y2_sound,15284,7,0.719,0.635
-Y3_smell,15284,7,0.8309,0.4987

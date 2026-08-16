@@ -1,8 +1,0 @@
-==== Experiment A (LightGBM, no image) ====
-job=72029  node=cc25cluster01  cpus=48
-Target          N  cls   accuracy   macroF1
-Y1_mood     15284    7      0.630     0.457
-Y2_sound    15284    7      0.719     0.635
-Y3_smell    15284    7      0.831     0.499
-
-saved -> ../result/exp_A/exp_A_results.csv
