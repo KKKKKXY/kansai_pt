@@ -1,0 +1,17 @@
+==== Experiment C, A+C, B+C ====
+job=72216  node=cc25cluster02  cpus=48
+(no CLIP cache at ../result/exp_B/clip_emb.npz -> skipping B+C; run exp_B first)
+
+Y1_mood   (exp)    accuracy   macroF1
+  C           0.512     0.204
+  A+C         0.630     0.456
+
+Y2_sound   (exp)    accuracy   macroF1
+  C           0.520     0.328
+  A+C         0.712     0.620
+
+Y3_smell   (exp)    accuracy   macroF1
+  C           0.737     0.212
+  A+C         0.829     0.506
+
+saved -> ../result/exp_C/exp_C_results.csv

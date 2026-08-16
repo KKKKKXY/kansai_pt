@@ -1,0 +1,6 @@
+submitted A: job 72033
+submitted B: job 72034
+submitted C: job 72035  (waits for B=72034)
+
+watch progress:  squeue -u $USER
+results appear in ../result/exp_A , ../result/exp_B , ../result/exp_C

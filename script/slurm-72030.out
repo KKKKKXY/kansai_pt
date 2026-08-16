@@ -1,0 +1,13 @@
+==== Experiment A (LightGBM, no image) ====
+Target          N  cls   accuracy   macroF1
+Y1_mood     15284    7      0.630     0.457
+Y2_sound    15284    7      0.719     0.635
+Y3_smell    15284    7      0.831     0.499
+
+saved -> ../result/exp_A/exp_A_results.csv
+
+==== Experiment B (CLIP image) — builds clip_emb.npz cache ====
+Traceback (most recent call last):
+  File "/work/xingyuan-k/ks_pc/script/exp_B_clip.py", line 14, in <module>
+    import numpy as np, pandas as pd, torch, clip
+ModuleNotFoundError: No module named 'torch'

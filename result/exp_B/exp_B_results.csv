@@ -1,0 +1,4 @@
+target,N,accuracy,macro_f1
+Y1_mood,15283,0.5018,0.2225
+Y2_sound,15283,0.5008,0.3079
+Y3_smell,15283,0.7311,0.231
